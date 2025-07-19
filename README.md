@@ -16,7 +16,7 @@ The dashboard provides insights into:
 
 ## 🧩 Key Features
 
-# - Filters:
+- #  Filters:
 
 - Mobile Model (e.g., iPhone 12)
 
@@ -28,7 +28,7 @@ The dashboard provides insights into:
 
 - Month Selection (Sidebar)
 
-# - Visualizations:
+- # Visualizations:
 
 - 🌍 Total Sales by City: Interactive map displaying cities like Mumbai, Patna, Delhi, Rajkot.
 
@@ -42,7 +42,7 @@ The dashboard provides insights into:
 
 - 📱 Total Sales by Mobile Model: iPhone 12 sales reaching ₹1.9M.
 
-# - Tabular Summary:
+- # Tabular Summary:
 
 - Brand: Apple
 
